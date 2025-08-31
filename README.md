@@ -1,4 +1,4 @@
-# Montgomery County (Maryland) Tuition Assistance Program Data Analysis - Open Data
+# Sample County Tuition Assistance Program Data Analysis in Maryland - Open Data
 
 Open Data can be found in this link - https://data.montgomerycountymd.gov/Education/Tuition-Assistance/p7z5-tjrz/about_data.
 
